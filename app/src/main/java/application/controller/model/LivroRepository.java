@@ -1,4 +1,4 @@
-package application.model;
+package application.controller.model;
 
 import org.springframework.data.repository.CrudRepository;
 
